@@ -1,4 +1,4 @@
-# Real-Time Assistive Classroom Blackboard OCR & Navigation for Visually Impaired Students
+# Real-Time Assistive Classroom Blackboard OCR & Navigation for Visually Impaired Students (2023)
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/Computer%20Vision-OpenCV%20ArUco-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
