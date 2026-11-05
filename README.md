@@ -4,7 +4,19 @@
 [![OpenCV](https://img.shields.io/badge/Computer%20Vision-OpenCV%20ArUco-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
 [![EasyOCR](https://img.shields.io/badge/OCR-EasyOCR%20%7C%20PyTorch-FF6F00?style=flat-square)](https://github.com/JaidedAI/EasyOCR)
 [![TTS](https://img.shields.io/badge/Audio-pyttsx3%20Speech%20Synthesis-green?style=flat-square)](https://github.com/nateshmbhat/pyttsx3)
-[![YouTube](https://img.shields.io/badge/YouTube-Demonstration%20Video-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/5D6ct6-0fJo)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Watch%20Live%20Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/5D6ct6-0fJo)
+
+<p align="center">
+  <a href="https://youtu.be/5D6ct6-0fJo" target="_blank">
+    <img src="https://img.youtube.com/vi/5D6ct6-0fJo/maxresdefault.jpg" alt="Real-Time Assistive Classroom OCR Demonstration" width="750" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+  </a>
+  <br>
+  <strong>▶️ <a href="https://youtu.be/5D6ct6-0fJo" target="_blank">Click here to watch the live demonstration on YouTube</a></strong>
+  <br>
+  <em>Real-time ArUco quadrilateral tracking, dynamic homography rectification, and instant speech synthesis.</em>
+</p>
+
+---
 
 An end-to-end assistive vision pipeline engineered to solve one of the greatest educational barriers for visually impaired children in mainstream classrooms: **reading chalkboard/whiteboard text and navigating school hallways in real time**.
 
@@ -61,13 +73,11 @@ flowchart TD
 
 ---
 
-## 🎥 Live Demonstration Video
+## 📹 Offline Video Archive
 
-[![Real-Time Assistive Classroom OCR Demonstration](https://img.youtube.com/vi/5D6ct6-0fJo/hqdefault.jpg)](https://youtu.be/5D6ct6-0fJo)
-
-> **▶️ [Click to watch the full demonstration on YouTube](https://youtu.be/5D6ct6-0fJo)**  
-> Demonstrates real-time ArUco marker tracking, dynamic homography rectification, OCR confidence filtering, and instant offline speech synthesis for visually impaired students.  
-> *(Local copy also available in repo: `OCR_MODEL_REALTIME.mp4`)*
+A local copy of the demonstration is also archived directly in this repository:
+- **Local File:** [`OCR_MODEL_REALTIME.mp4`](OCR_MODEL_REALTIME.mp4) (60 MB)
+- Demonstrates real-time marker quad tracking, dynamic homography rectification, and live text-to-speech synthesis.
 
 ---
 
